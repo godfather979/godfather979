@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left" width = "144" style = "display: flex; flex-wrap: wrap; gap: 30">
+<div align="left" width = "120" style = "display: flex; flex-wrap: wrap; gap: 30">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
