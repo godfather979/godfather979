@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi! My name is Ved Thakker.<br>🎓Computer Engineering Student @Sardar Patel Institute of Technology<br>🔭Currently Learning : React-Native, Data Science</h2>
+<h2 align="left">👋 Hi! My name is Ved Thakker.<br>🎓Computer Engineering Student @Sardar Patel Institute of Technology<br>🔭Currently Learning : React-Native, Data Science </h2>
 
 ###
 
