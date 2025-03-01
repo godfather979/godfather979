@@ -43,6 +43,16 @@
   <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=What-a-mess&theme=github_dark" />
 </a>
 
+<br>
+<br>
+
+<a href="https://github.com/godfather979/Samuhik-Sankalp">
+  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=Samuhik-Sankalp&theme=github_dark" />
+</a>
+<a href="https://github.com/godfather979/SportSync">
+  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=SportSync&theme=github_dark" />
+</a>
+
 
 <img src="https://raw.githubusercontent.com/godfather979/godfather979/output/snake.svg" alt="Snake animation" />
 
