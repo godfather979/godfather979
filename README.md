@@ -24,36 +24,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![FastAI](https://img.shields.io/badge/FastAI-%23ffffff.svg?style=flat&logo=PyTorch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
 ### Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%230D9488.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  
-# Pinned
-<a href="https://github.com/godfather979/F1-Analytics-and-ML">
-  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=F1-Analytics-and-ML&theme=github_dark" />
-</a>
-<a href="https://github.com/godfather979/SafeQuest">
-  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=SafeQuest&theme=github_dark" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/godfather979/Founder-Flow">
-  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=Founder-Flow&theme=github_dark" />
-</a>
-<a href="https://github.com/godfather979/What-a-mess">
-  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=What-a-mess&theme=github_dark" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/godfather979/Samuhik-Sankalp">
-  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=Samuhik-Sankalp&theme=github_dark" />
-</a>
-<a href="https://github.com/godfather979/SportSync">
-  <img width="400" hspace="10" src="https://github-readme-stats.vercel.app/api/pin/?username=godfather979&repo=SportSync&theme=github_dark" />
-</a>
-
-
+ ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%230D9488.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/hugging%20face-%23FFAA00.svg?style=flat&logo=huggingface&logoColor=white)
 <img src="https://raw.githubusercontent.com/godfather979/godfather979/output/snake.svg" alt="Snake animation" />
 
 
